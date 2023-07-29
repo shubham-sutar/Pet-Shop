@@ -164,7 +164,7 @@
 /* counter section */
 
 #counter-section{
-    background-image: url("images/counter-back.png");
+    background-image: url("/images/counter-back.png");
     background-size: cover;
     padding-top: 100px;
     padding-bottom: 120px;
